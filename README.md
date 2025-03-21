@@ -1,1 +1,3 @@
-# Typing-game-with-2-players
+# 双人联机打字游戏
+
+基于C++的局域网双人联机的实时打字竞速游戏，使用EasyX图形库进行渲染，包含基础功能同步打字进度与渲染不同进度的角色动画表现，参考了[Voidmatrix](https://space.bilibili.com/25864506)大佬的工作，十分感谢（跪）。
